@@ -1,0 +1,22 @@
+.header {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../../images/john-schnobrich-FlPc9_VocJ4-unsplash.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  height: 80vh;
+  background-repeat: no-repeat;
+}
+.hero-image {
+  display: flex;
+  justify-content: center;
+}
+.hero-text {
+  text-align: center;
+  width: 70%;
+}
+.quote {
+  font-family: "Bonheur Royale", cursive;
+  font-size: 40px;
+  color: rgba(238, 237, 237, 0.849);
+  line-height: 40px;
+}
